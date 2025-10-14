@@ -1,7 +1,7 @@
 {
-  "ACTOR.TypeCritter": "Critter",
+  "ACTOR.TypeCritter": "Criatura",
   "ACTOR.TypeNpc": "NPC",
-  "ACTOR.TypePlayer": "Jogador Personagem",
+  "ACTOR.TypePlayer": "Personagem Jogador",
   "ITEM.TypeAdeptpower": "Poder Adepto",
   "ITEM.TypeComplexform": "Formulário complexo",
   "ITEM.TypeEcho": "Eco",
